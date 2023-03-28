@@ -56,9 +56,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Nicolo Salvi
+- :woman: Elena Iglesias
+- :woman: Yurany Linares
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 

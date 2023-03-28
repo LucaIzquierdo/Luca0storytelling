@@ -17,7 +17,8 @@ En un mundo de pares, esta Luca, un rudo zapato izquierdo quien ha pasado por si
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: Luca el zapato izquierdo.
+Nombre: Luca el zapato izquierdo
+
 Edad: 10 años
 
 

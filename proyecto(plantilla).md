@@ -2,35 +2,34 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: Grupo 6
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 ## Resumen
-
+En un mundo de pares, esta Luca, un rudo zapato izquierdo quien ha pasado por situaciones complicadas, situaciones que no van más allá de su cabeza, el poder de su mente vive atormentándolo sin siquiera darse cuenta
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Luca el zapato izquierdo.
 
 
 ### Historia
-
+En un armario parejo, donde to2 salen a caminar, conocer y viajar con sus parejas, ahí encontramos a Luca, un zapato izquierdo solitario, un poco rudo a su parecer, pero muy en el fondo un tierno y acogedor zapato izquierdo quien ha perdido a su pareja en un trágico accidente. Luca, en su diario vivir suele estar malhumorado, no le gusta chistear ni emitir ruido alguno con sus vecinos, al contrario, los detesta. Para él, ha sido un vivir tormentoso desde que Lía el zapato derecho no está, en el armario todo ha cambiado, todos lo molestan y se burlan de él.
 
 ### Contexto
-
+Era una tarde oscura, allí iba Luca con su amada tomados del cordón, esperaban la hora de salir a conocer y poder viajar juntos, como antes ya lo habían hecho, sin embargo, una fuerte llovizna los ha emparamado atrozmente dejándolos tirados en el balconcillo. Es allí donde al amanecer Luca ha despertado solo sin su amada luego de aquella tormentosa noche llena de fuertes brisas y estremecedores vientos.
 
 ### Conflicto 
-
-
+Para Luca, vivir en el armario ha sido un verdadero tormento pues, sus vecinos se burlan de él, le hacen bromas pesadas y no lo dejan vivir tranquilo, él para poder distraerse y no vivir peleando habla con sus cordones, sus únicos amigos fieles que luego de aquella tragedia no le abandonan, creando imaginarios que le ayudan a disociar un poco todos sus dolores
 
 ### Productos
 
